@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **handongsu/handongsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--## Waving <a id="waving">-->
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!&nbsp;I'm&nbsp;dongsu&fontAlign=70&fontAlignY=40&color=gradient)
