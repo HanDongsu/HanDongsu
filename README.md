@@ -39,3 +39,19 @@ ___
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 </div>
+<div style={display:flex} align="center">
+  
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E5?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  
+</div>
+
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handongsu&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dos1436)](https://solved.ac/dos1436/)
+
+
+
+
