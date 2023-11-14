@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--## Waving <a id="waving">-->
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!&nbsp;I'm&nbsp;FE&nbsp;dongsu&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi!&nbsp;I'm&nbsp;FE&nbsp;dongsu&fontAlign=65&fontAlignY=40&color=gradient)
 
 ___
 
