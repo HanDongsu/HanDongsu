@@ -37,6 +37,7 @@ ___
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled%20components-#DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 
 </div>
 <div style={display:flex} align="center">
@@ -45,11 +46,15 @@ ___
   <img src="https://img.shields.io/badge/figma-F24E1E5?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/recoil-#3578E5?style=for-the-badge&logo=recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/React%20Query-#FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+
   
 </div>
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handongsu&show_icons=true&theme=transparent)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dos1436)](https://solved.ac/dos1436/)
 
 
 
