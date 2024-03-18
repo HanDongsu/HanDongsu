@@ -49,6 +49,8 @@ ___
 
 </div>
 
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1710737326592?alt=media&token=b02fef64-18d1-41c9-9463-ac6f3c547e05)](https://github.com/msdio/stackticon)
+
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=handongsu&show_icons=true&theme=transparent)
 
